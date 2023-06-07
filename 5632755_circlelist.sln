@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33423.256
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5632755_circlelist", "5632755_circlelist.vcxproj", "{DDFC0D3C-A009-4BBC-8107-4C78A71217CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDFC0D3C-A009-4BBC-8107-4C78A71217CC}.Debug|x64.ActiveCfg = Debug|x64
+		{DDFC0D3C-A009-4BBC-8107-4C78A71217CC}.Debug|x64.Build.0 = Debug|x64
+		{DDFC0D3C-A009-4BBC-8107-4C78A71217CC}.Debug|x86.ActiveCfg = Debug|Win32
+		{DDFC0D3C-A009-4BBC-8107-4C78A71217CC}.Debug|x86.Build.0 = Debug|Win32
+		{DDFC0D3C-A009-4BBC-8107-4C78A71217CC}.Release|x64.ActiveCfg = Release|x64
+		{DDFC0D3C-A009-4BBC-8107-4C78A71217CC}.Release|x64.Build.0 = Release|x64
+		{DDFC0D3C-A009-4BBC-8107-4C78A71217CC}.Release|x86.ActiveCfg = Release|Win32
+		{DDFC0D3C-A009-4BBC-8107-4C78A71217CC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFF0E129-47C7-46D5-AA61-B11A548851B0}
+	EndGlobalSection
+EndGlobal
